@@ -27,7 +27,7 @@ git push -u origin master
 
 ----------------
 
-When you Comment with -m, NANO editor will show up, Write a meaningful message and use Ctrl+O and Enter to save, and then Ctrl+X to leave the editor.
+When you Comment without -m, NANO editor will show up, Write a meaningful message and use Ctrl+O and Enter to save, and then Ctrl+X to leave the editor.
 
 datacamp lesson for this topic
 https://campus.datacamp.com/courses/introduction-to-git/basic-workflow?ex=12
