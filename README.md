@@ -1,27 +1,27 @@
 # generation-demo-01
 
 
-Step 1 - copy files to your local drive
+Step 1 - copy files to your local drive<br>
 git clone https://github.com/hammerchu/generation-demo-01.git --branch master
 
 Step 2 - Make some changes to the repository(e.g. add a text file)
 
-Step 3 - Add the new file to the stage(it will be shown in red when you git status)
+Step 3 - Add the new file to the stage(it will be shown in red when you git status)<br>
 git add *
  
-Step 4 - commit with a comment, if you skip "-m 'comment' ", you will be sent to a text editor
+Step 4 - commit with a comment, if you skip "-m 'comment' ", you will be sent to a text editor<br>
 git commit -m " your comment for this commit "
 
-Step 5 - Add remote server info - skip this if it shows its already exist
+Step 5 - Add remote server info - skip this if it shows its already exist<br>
 git remote add origin https://github.com/hammerchu/generation-demo-01.git
 
-Step 6 - Set url of the server that you want to push to
+Step 6 - Set url of the server that you want to push to<br>
 git remote set-url origin https://yourGitToken@github.com/hammerchu/generation-demo-01.git
 
-Step 7 - Pull info and update your local copy with latest info/files
+Step 7 - Pull info and update your local copy with latest info/files<br>
 git pull (optional)
 
-Step 8 - push! it should show up in the master shortly
+Step 8 - push! it should show up in the master shortly<br>
 git push -u origin master
 
 
