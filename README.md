@@ -38,8 +38,12 @@ https://campus.datacamp.com/courses/introduction-to-git/basic-workflow?ex=12
 
 When you git pull, you are integrating old data with update data and git will do MERGE for you, and it would want you to write comment about the merge in.
 
-And depends on what OS you are using you might be using a VI / Vim editor
+And depends on what OS you are using you might be using a VI / Vim editor from UNIX environment
 
+mini-tutorial about VI
+https://medium.com/@tburgess57/the-vi-text-editor-crash-course-bacdedfe71
+
+How to just save and quite:
 Press ESC first, then type the following command then ENTER
 :wq -> write to a file and then quite
 :q -> quit
